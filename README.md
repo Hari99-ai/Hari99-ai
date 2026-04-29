@@ -48,6 +48,23 @@
   - Maintained high annotation accuracy and consistency to support object detection training and evaluation.
 
 ## Projects
+## 🚀 Featured Project
+
+### AI-Based Proctoring & Memory Training System  
+Live: https://aidev.gravitinfosystems.com/
+
+- Built a real-time proctoring and memory training platform with monitoring dashboard and practice modules.
+- Implemented AI-based detection (person, phone, focus tracking) for exam integrity.
+- Designed full backend system with FastAPI, WebSocket communication, and real-time monitoring.
+- Developed admin dashboard for event tracking, logs, and user performance analytics.
+- Integrated multi-device system (desktop + mobile) for live proctoring.
+- Features include:
+  - Practice tests (Binary, Words, Numbers, Images, Dates)
+  - Performance analytics dashboard
+  - Real-time violation detection and logging
+- Tech Stack: Python, FastAPI, WebSocket, YOLO, React, MySQL, Docker
+
+
 
 - Multimodal RAG Pipeline for Educational Content | Python, LangChain, Qdrant, Ollama
   - Improved query accuracy by 92% for multimodal educational content.
