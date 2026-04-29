@@ -5,8 +5,7 @@
 </p>
 <table>
   <tr>
-    <td width="72%" valign="middle">
-    
+    <td width="72%" valign="middle">    
       <h3>AI/ML Engineer from India</h3>
       <p>
       AI/ML Engineer building real-time intelligent systems (RAG, Computer Vision, Proctoring).  
