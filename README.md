@@ -97,7 +97,8 @@ Live: https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.stre
 - Optimized inference using precomputed embeddings, reducing per-query computation by 90%.
 - Implemented real-time prediction interface with image upload support.
 - Tech Stack: Python, TensorFlow/Keras, OpenCV, NumPy, Streamlit
-### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/ef5132ca-f445-4dbf-b1ea-d36000b4309d" />
+### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/2be7c2f9-d6c0-4539-bbcf-7f42dccedb45" />
+
 
 
 ## Education
