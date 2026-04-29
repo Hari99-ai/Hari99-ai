@@ -89,10 +89,16 @@ Live: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
 ### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/962b5939-a05e-4c2f-841d-b3e6ccd15f8b" />
 
 
-- Deep Learning Celebrity Matcher | MTCNN, ResNet50, VGGFace
-  - Built a face recognition pipeline with 95% accuracy on 200+ celebrity images.
-  - Used NumPy vectorization and precomputed embeddings to reduce per-query computation by 90%.
-  - Links: [Demo](https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.streamlit.app/)
+### 🎭 Deep Learning Celebrity Matcher
+Live: https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.streamlit.app/
+- Built a deep learning-based face recognition system to match users with celebrity identities.
+- Used MTCNN for face detection and ResNet50 + VGGFace for feature extraction.
+- Achieved 95% matching accuracy on 200+ celebrity images dataset.
+- Optimized inference using precomputed embeddings, reducing per-query computation by 90%.
+- Implemented real-time prediction interface with image upload support.
+- Tech Stack: Python, TensorFlow/Keras, OpenCV, NumPy, Streamlit
+### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/ef5132ca-f445-4dbf-b1ea-d36000b4309d" />
+
 
 ## Education
 
