@@ -86,7 +86,8 @@ Live: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
 - Improved startup performance by 10% using persisted artifacts and precomputed vectors.
 - Designed interactive UI for real-time recommendations and user input.
 - Tech Stack: Python, Scikit-learn, Pandas, Streamlit
-- 📸 Screenshots:
+### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/962b5939-a05e-4c2f-841d-b3e6ccd15f8b" />
+
 
 - Deep Learning Celebrity Matcher | MTCNN, ResNet50, VGGFace
   - Built a face recognition pipeline with 95% accuracy on 200+ celebrity images.
