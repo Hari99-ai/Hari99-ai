@@ -10,13 +10,7 @@
       AI/ML Engineer building real-time intelligent systems (RAG, Computer Vision, Proctoring).  
       Focused on scalable backend systems using FastAPI, WebSockets, and production-ready ML pipelines.
       </p>
-      <!-- <ul>
-        
-        <li>Current role: AI/ML Developer Intern at Gravit InfoSystems Pvt. Ltd.</li>
-        <li>Working on NLP chatbots, document RAG, recommendation systems, and face recognition pipelines.</li>
-        <li>Strong focus on data preprocessing, feature engineering, model training, and deployment-ready workflows.</li>
-        <li>Open to AI/ML, data science, and applied LLM opportunities.</li>
-      </ul> -->
+
     </td>
     <td width="28%" align="center">
       <img src="https://github.com/Hari99-ai.png?size=240" width="180" alt="Hari Om profile photo" />
