@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td width="72%" valign="middle">
-      <!-- <h1>Hari Om</h1> -->
+    
       <h3>AI/ML Engineer from India</h3>
       <p>
       AI/ML Engineer building real-time intelligent systems (RAG, Computer Vision, Proctoring).  
