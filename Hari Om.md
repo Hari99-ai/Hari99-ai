@@ -47,8 +47,7 @@
 - AI-based proctoring system with real-time monitoring
 - RAG pipelines using LangChain + Qdrant
   
-## Projects
-## 🚀 Featured Project
+## 🚀 Project
 
 ### AI-Based Proctoring & Memory Training System  
 Live: https://aidev.gravitinfosystems.com/
