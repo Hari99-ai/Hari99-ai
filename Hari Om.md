@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hari%20Om&fontSize=42&fontColor=ffffff&desc=AI%2FML%20Engineer%20from%20India&descSize=18&descAlignY=60" alt="Header banner" />
 </p>
 
-</p>
 <table>
   <tr>
     <td width="72%" valign="middle">
