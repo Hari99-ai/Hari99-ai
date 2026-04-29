@@ -1,3 +1,4 @@
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hari%20Om&fontSize=42&fontColor=ffffff&desc=AI%2FML%20Engineer%20from%20India&descSize=18&descAlignY=60"/>
 </p>
@@ -10,15 +11,14 @@
         Building real-time intelligent systems using <b>RAG, Computer Vision, and FastAPI</b>.<br/>
         Focused on scalable backend architectures, WebSocket-based systems, and production-ready ML pipelines.
       </p>
-
-      <p><b>Current:</b> AI/ML Developer Intern @ Gravit InfoSystems</p>
+       <p><b>Current:</b> AI/ML Developer Intern @ Gravit InfoSystems</p>
     </td>
-
     <td width="30%" align="center">
       <img src="https://github.com/Hari99-ai.png?size=240" width="150"/>
     </td>
   </tr>
 </table>
+
 
 ## 🧠 Skills
 
