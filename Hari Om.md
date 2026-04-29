@@ -1,149 +1,154 @@
+<!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hari%20Om&fontSize=42&fontColor=ffffff&desc=AI%2FML%20Engineer%20from%20India&descSize=18&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hari%20Om&fontSize=45&fontColor=ffffff&desc=AI%2FML%20Engineer%20%7C%20Building%20Real-Time%20Intelligent%20Systems&descSize=18&descAlignY=65"/>
 </p>
 
-<table>
-  <tr>
-    <td width="70%" valign="middle">
-      <h2>AI/ML Engineer</h2>
-      <p>
-        Building real-time intelligent systems using <b>RAG, Computer Vision, and FastAPI</b>.<br/>
-        Focused on scalable backend architectures, WebSocket-based systems, and production-ready ML pipelines.
-      </p>
-       <p><b>Current:</b> AI/ML Developer Intern @ Gravit InfoSystems</p>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://github.com/Hari99-ai.png?size=240" width="150"/>
-    </td>
-  </tr>
-</table>
+<!-- ===== TYPING EFFECT ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&size=22&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;FastAPI+%7C+RAG+%7C+Computer+Vision;Building+Real-Time+Systems;Open+to+Opportunities"/>
+</p>
 
+<!-- ===== PROFILE VIEWS ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hari99-ai&label=Profile%20Views&color=2563eb&style=flat" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+AI/ML Engineer focused on building **real-time intelligent systems** using **RAG, Computer Vision, and FastAPI**.  
+I work on scalable backend systems, WebSocket-based architectures, and production-ready ML pipelines.
+
+- 🚀 AI/ML Developer Intern @ Gravit InfoSystems  
+- 🧠 Strong in NLP, RAG, CV & system design  
+- ⚡ Love building real-world AI products  
+- 🎯 Open to AI/ML & Backend roles  
+
+---
 
 ## 🧠 Skills
 
-**Core:** Python, FastAPI, Machine Learning, Computer Vision  
-**ML:** Scikit-learn, PyTorch, NLP, Deep Learning  
-**Systems:** WebSockets, Docker, MySQL  
-**RAG & AI:** LangChain, Qdrant, TF-IDF  
+- **Core:** Python, FastAPI, Machine Learning, Computer Vision  
+- **ML:** PyTorch, Scikit-learn, NLP, Deep Learning  
+- **Systems:** WebSockets, Docker, MySQL  
+- **AI Stack:** LangChain, Qdrant, RAG, TF-IDF  
 
-## Experience
-
-- AI/ML Developer Intern, Gravit InfoSystems Pvt. Ltd. | Dec 2025 - Present
-  - Built and optimized an AI-powered chatbot using NLP techniques, handling 100+ queries with improved intent detection accuracy.
-  - Designed preprocessing pipelines and integrated ML models to improve chatbot response accuracy and consistency.
-
-- Data Annotation Intern, Harmony Data Integration Technologies | Nov 2025 - Dec 2025
-  - Annotated 1,000+ computer vision samples covering players, rackets, courts, nets, and ball positions for model training.
-  - Maintained high annotation accuracy and consistency to support object detection training and evaluation.
+---
 
 ## 🔧 Currently Building
 
-- AI-based proctoring system with real-time monitoring
-- RAG pipelines using LangChain + Qdrant
-  
-## 🚀 Projects
+- 🚀 Real-time AI Proctoring System (multi-device monitoring)  
+- 🧠 RAG pipelines using LangChain + vector search  
+
 ---
-### 🧠 AI Proctoring System
-🔗 Live Demo: <https://aidev.gravitinfosystems.com/>
 
-- Built a real-time proctoring and memory training platform with monitoring dashboard and practice modules.
-- Implemented AI-based detection (person, phone, focus tracking) for exam integrity.
-- Designed full backend system with FastAPI, WebSocket communication, and real-time monitoring.
-- Developed admin dashboard for event tracking, logs, and user performance analytics.
-- Integrated multi-device system (desktop + mobile) for live proctoring.
-- Features include:
-  - Practice tests (Binary, Words, Numbers, Images, Dates)
-  - Performance analytics dashboard
-  - Real-time violation detection and logging
-- Tech Stack: Python, FastAPI, WebSocket, YOLO, React, MySQL, Docker
+## 🚀 Projects
 
-### 💍 ShubhMilan – Matrimony Web Platform  
-🔗 Live Demo: https://shubh-milan-w2uu.vercel.app/
+---
 
-- Developed a full-stack matrimony platform with user authentication, profile creation, and secure login system.
-- Implemented complete signup flow with email-based verification (OTP-based onboarding).
-- Designed clean and modern UI for user engagement and trust-focused experience.
-- Built responsive frontend with smooth login/signup transitions and form validation.
-- Features include:
-  - User registration & login system
-  - Profile creation and management
-  - Secure authentication flow
-  - Clean UI/UX for real users
-- Tech Stack: React, Next.js / Vercel Deployment, Node.js (if used), MongoDB/MySQL (if used)
+### 🧠 AI Proctoring System  
+🔗 Live: https://aidev.gravitinfosystems.com/
 
-  
+- Real-time AI proctoring system with **violation detection (person, phone, focus)**  
+- Multi-device monitoring (desktop + mobile)  
+- FastAPI + WebSocket-based real-time architecture  
+- Admin dashboard for logs & analytics  
+
+**Tech:** FastAPI, YOLO, WebSockets, React, MySQL, Docker  
+
+---
+
+### 💍 ShubhMilan – Matrimony Platform  
+🔗 Live: https://shubh-milan-w2uu.vercel.app/
+
+- Full-stack matrimony platform with authentication & profile system  
+- OTP-based onboarding + secure login  
+- Clean, responsive UI  
+
+**Tech:** React, Next.js, Vercel  
+
+---
+
 ### 📋 TaskFlow – Project Management System  
-🔗 Live Demo: https://taskflow.ezyprojects.com/
+🔗 Live: https://taskflow.ezyprojects.com/
 
-- Developed a full-stack project management platform to organize tasks, teams, and workflows.
-- Implemented secure authentication with email/password and social login (Google, Facebook).
-- Designed a clean and modern dashboard for managing projects, tasks, and user activities.
-- Built scalable backend architecture for handling multiple users and real-time task updates.
-- Features include:
-  - User authentication & role-based access
-  - Task creation, assignment, and tracking
-  - Dashboard for project overview and progress monitoring
-  - Social login integration (Google/Facebook)
-- Tech Stack: React, Node.js, Express (if used), MySQL/MongoDB, Vercel/Cloud Deployment
-  
+- Project & task management system with role-based access  
+- Social login (Google/Facebook)  
+- Dashboard for tracking tasks & workflows  
 
-### 🎬 Movie Recommender System
-🔗 Live Demo: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
-- Built a content-based movie recommendation system using feature engineering on TMDB dataset.
-- Implemented similarity ranking using cosine similarity on processed metadata (genres, keywords, cast).
-- Optimized recommendation pipeline to achieve sub-2-second response time on 5,000+ movies.
-- Improved startup performance by 10% using persisted artifacts and precomputed vectors.
-- Designed interactive UI for real-time recommendations and user input.
-- Tech Stack: Python, Scikit-learn, Pandas, Streamlit
-### 📸 Screenshots
-<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/962b5939-a05e-4c2f-841d-b3e6ccd15f8b" />
+**Tech:** React, Node.js, MySQL  
 
-### 🎭 Deep Learning Celebrity Matcher
-🔗 Live Demo: https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.streamlit.app/
-- Built a deep learning-based face recognition system to match users with celebrity identities.
-- Used MTCNN for face detection and ResNet50 + VGGFace for feature extraction.
-- Achieved 95% matching accuracy on 200+ celebrity images dataset.
-- Optimized inference using precomputed embeddings, reducing per-query computation by 90%.
-- Implemented real-time prediction interface with image upload support.
-- Tech Stack: Python, TensorFlow/Keras, OpenCV, NumPy, Streamlit
-### 📸 Screenshots
-<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/2be7c2f9-d6c0-4539-bbcf-7f42dccedb45" />
+---
 
+### 🎬 Movie Recommender System  
+🔗 Live: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
 
+- Content-based recommender using cosine similarity  
+- Handles 5,000+ movies with sub-2s response  
+- Interactive UI  
 
-## Education
+**Tech:** Python, Scikit-learn, Pandas, Streamlit  
 
-- Institute of Technology and Management, Gwalior | B.Tech. in Computer Science and Engineering (Data Science) | Oct 2022 - Present
-- Marwari College, Bhagalpur | Intermediate in Science | Jun 2020 - May 2022
+<br/>
 
-## Certifications and Achievements
+<img src="https://github.com/user-attachments/assets/962b5939-a05e-4c2f-841d-b3e6ccd15f8b" />
 
-- Data Science Master Virtual Internship, AICTE EduSkills
-- Machine Learning Fundamentals, Alteryx via Credly
-- Python Certification, IIT Bombay Spoken Tutorial
+---
 
-## GitHub Stats
+### 🎭 Celebrity Matcher  
+🔗 Live: https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.streamlit.app/
+
+- Face recognition system using deep learning  
+- 95% accuracy on celebrity dataset  
+- Real-time image matching  
+
+**Tech:** TensorFlow, OpenCV, NumPy  
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/2be7c2f9-d6c0-4539-bbcf-7f42dccedb45" />
+
+---
+
+## 🎓 Education
+
+- B.Tech CSE (Data Science) – ITM Gwalior  
+- Intermediate – Marwari College  
+
+---
+
+## 🏆 Certifications
+
+- Data Science Virtual Internship – AICTE  
+- Machine Learning – Alteryx  
+- Python – IIT Bombay  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hari99-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari99-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hari99-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari99-ai&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hari99-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Hari99-ai&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
 
-## Connect
+## 🤝 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Hari99-ai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:hariom993126@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/hariomds">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-
+</p>
