@@ -1,26 +1,22 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hari%20Om&fontSize=42&fontColor=ffffff&desc=AI%2FML%20Engineer%20from%20India&descSize=18&descAlignY=60" alt="Header banner" />
 </p>
-
 <table>
   <tr>
-    <td width="72%" valign="middle">
-      <h3>AI/ML Engineer from India</h3>
+    <td width="70%" valign="middle">
+      <h2>AI/ML Engineer</h2>
       <p>
-      AI/ML Engineer building real-time intelligent systems (RAG, Computer Vision, Proctoring).  
-      Focused on scalable backend systems using FastAPI, WebSockets, and production-ready ML pipelines.
+        Building real-time intelligent systems using <b>RAG, Computer Vision, and FastAPI</b>.  
+        Focused on scalable backend architectures, WebSocket-based systems, and production-ready ML pipelines.
       </p>
-        <ul>
-        
-        <li>Current role: AI/ML Developer Intern at Gravit InfoSystems Pvt. Ltd.</li>
-        <li>Working on NLP chatbots, document RAG, recommendation systems, and face recognition pipelines.</li>
-        <li>Strong focus on data preprocessing, feature engineering, model training, and deployment-ready workflows.</li>
-        <li>Open to AI/ML, data science, and applied LLM opportunities.</li>
-      </ul>
 
+      <p>
+        <b>Current:</b> AI/ML Developer Intern @ Gravit InfoSystems  
+      </p>
     </td>
-    <td width="28%" align="center">
-      <img src="https://github.com/Hari99-ai.png?size=240" width="180" alt="Hari Om profile photo" />
+
+    <td width="30%" align="center">
+      <img src="https://github.com/Hari99-ai.png?size=240" width="160" alt="Hari Om profile photo" />
     </td>
   </tr>
 </table>
@@ -50,7 +46,7 @@
 ## 🚀 Project
 ---
 ### 🧠 AI Proctoring System
-Live: https://aidev.gravitinfosystems.com/
+🔗 Live Demo: https://aidev.gravitinfosystems.com/
 
 - Built a real-time proctoring and memory training platform with monitoring dashboard and practice modules.
 - Implemented AI-based detection (person, phone, focus tracking) for exam integrity.
