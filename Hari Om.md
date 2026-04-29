@@ -10,6 +10,13 @@
       AI/ML Engineer building real-time intelligent systems (RAG, Computer Vision, Proctoring).  
       Focused on scalable backend systems using FastAPI, WebSockets, and production-ready ML pipelines.
       </p>
+        <ul>
+        
+        <li>Current role: AI/ML Developer Intern at Gravit InfoSystems Pvt. Ltd.</li>
+        <li>Working on NLP chatbots, document RAG, recommendation systems, and face recognition pipelines.</li>
+        <li>Strong focus on data preprocessing, feature engineering, model training, and deployment-ready workflows.</li>
+        <li>Open to AI/ML, data science, and applied LLM opportunities.</li>
+      </ul>
 
     </td>
     <td width="28%" align="center">
@@ -41,7 +48,7 @@
 - RAG pipelines using LangChain + Qdrant
   
 ## 🚀 Project
-
+---
 ### 🧠 AI Proctoring System
 Live: https://aidev.gravitinfosystems.com/
 
@@ -57,7 +64,7 @@ Live: https://aidev.gravitinfosystems.com/
 - Tech Stack: Python, FastAPI, WebSocket, YOLO, React, MySQL, Docker
 
 ### 💍 ShubhMilan – Matrimony Web Platform  
-Live: https://shubh-milan-w2uu.vercel.app/
+🔗 Live Demo: https://shubh-milan-w2uu.vercel.app/
 
 - Developed a full-stack matrimony platform with user authentication, profile creation, and secure login system.
 - Implemented complete signup flow with email-based verification (OTP-based onboarding).
@@ -72,7 +79,7 @@ Live: https://shubh-milan-w2uu.vercel.app/
 
   
 ### 📋 TaskFlow – Project Management System  
-🔗 https://taskflow.ezyprojects.com/
+🔗 Live Demo: https://taskflow.ezyprojects.com/
 
 - Developed a full-stack project management platform to organize tasks, teams, and workflows.
 - Implemented secure authentication with email/password and social login (Google, Facebook).
@@ -87,7 +94,7 @@ Live: https://shubh-milan-w2uu.vercel.app/
   
 
 ### 🎬 Movie Recommender System
-Live: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
+🔗 Live Demo: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
 - Built a content-based movie recommendation system using feature engineering on TMDB dataset.
 - Implemented similarity ranking using cosine similarity on processed metadata (genres, keywords, cast).
 - Optimized recommendation pipeline to achieve sub-2-second response time on 5,000+ movies.
@@ -97,7 +104,7 @@ Live: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
 ### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/962b5939-a05e-4c2f-841d-b3e6ccd15f8b" />
 
 ### 🎭 Deep Learning Celebrity Matcher
-Live: https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.streamlit.app/
+🔗 Live Demo: https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.streamlit.app/
 - Built a deep learning-based face recognition system to match users with celebrity identities.
 - Used MTCNN for face detection and ResNet50 + VGGFace for feature extraction.
 - Achieved 95% matching accuracy on 200+ celebrity images dataset.
