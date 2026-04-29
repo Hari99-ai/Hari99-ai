@@ -1,7 +1,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hari%20Om&fontSize=42&fontColor=ffffff&desc=AI%2FML%20Engineer%20from%20India&descSize=18&descAlignY=60" alt="Header banner" />
 </p>
+## Connect
 
+<p align="left">
+  <a href="https://github.com/Hari99-ai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:hariom993126@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hariomds">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 <table>
   <tr>
     <td width="72%" valign="middle">
@@ -143,16 +155,4 @@ Live: https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.stre
   <img src="https://streak-stats.demolab.com?user=Hari99-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## Connect
 
-<p align="left">
-  <a href="https://github.com/Hari99-ai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:hariom993126@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/hariomds">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
