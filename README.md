@@ -88,7 +88,20 @@ Live: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
 - Tech Stack: Python, Scikit-learn, Pandas, Streamlit
 ### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/962b5939-a05e-4c2f-841d-b3e6ccd15f8b" />
 
+### 📋 TaskFlow – Project Management System  
+🔗 https://taskflow.ezyprojects.com/
 
+- Developed a full-stack project management platform to organize tasks, teams, and workflows.
+- Implemented secure authentication with email/password and social login (Google, Facebook).
+- Designed a clean and modern dashboard for managing projects, tasks, and user activities.
+- Built scalable backend architecture for handling multiple users and real-time task updates.
+- Features include:
+  - User authentication & role-based access
+  - Task creation, assignment, and tracking
+  - Dashboard for project overview and progress monitoring
+  - Social login integration (Google/Facebook)
+- Tech Stack: React, Node.js, Express (if used), MySQL/MongoDB, Vercel/Cloud Deployment
+  
 ### 🎭 Deep Learning Celebrity Matcher
 Live: https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.streamlit.app/
 - Built a deep learning-based face recognition system to match users with celebrity identities.
