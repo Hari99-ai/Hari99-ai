@@ -64,22 +64,29 @@ Live: https://aidev.gravitinfosystems.com/
   - Real-time violation detection and logging
 - Tech Stack: Python, FastAPI, WebSocket, YOLO, React, MySQL, Docker
 
+### 💍 ShubhMilan – Matrimony Web Platform  
+Live: https://shubh-milan-w2uu.vercel.app/
 
+- Developed a full-stack matrimony platform with user authentication, profile creation, and secure login system.
+- Implemented complete signup flow with email-based verification (OTP-based onboarding).
+- Designed clean and modern UI for user engagement and trust-focused experience.
+- Built responsive frontend with smooth login/signup transitions and form validation.
+- Features include:
+  - User registration & login system
+  - Profile creation and management
+  - Secure authentication flow
+  - Clean UI/UX for real users
+- Tech Stack: React, Next.js / Vercel Deployment, Node.js (if used), MongoDB/MySQL (if used)
 
-- Multimodal RAG Pipeline for Educational Content | Python, LangChain, Qdrant, Ollama
-  - Improved query accuracy by 92% for multimodal educational content.
-  - Automated PDF parsing, embedding generation, and caching with PyMuPDF and Docker, reducing retrieval latency by 35%.
-  - Links: [GitHub](https://github.com/Hari99-ai/RAG-Pipeline-Development)
-
-- Movie Recommender System | Content-based Filtering, TMDB Dataset
-  - Implemented cosine similarity on preprocessed movie features to rank recommendations.
-  - Achieved sub-2-second response time on 5,000+ movie records and improved startup speed by 10% with persisted artifacts.
-  - Links: [Demo](https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/)
-
-- RAG-Powered Retail Analytics Chatbot | TF-IDF, Cosine Similarity
-  - Built a retrieval-augmented chatbot that analyzes customer transactional data and improves retrieval accuracy by 90%.
-  - Engineered a modular backend for preprocessing, embedding generation, and similarity-based retrieval, reducing latency by 40%.
-  - Links: [Demo](https://rag-powered-chatbot-for-transactional-data-smr3wdbgotagbodhzjs.streamlit.app/)
+### 🎬 Movie Recommender System
+Live: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
+- Built a content-based movie recommendation system using feature engineering on TMDB dataset.
+- Implemented similarity ranking using cosine similarity on processed metadata (genres, keywords, cast).
+- Optimized recommendation pipeline to achieve sub-2-second response time on 5,000+ movies.
+- Improved startup performance by 10% using persisted artifacts and precomputed vectors.
+- Designed interactive UI for real-time recommendations and user input.
+- Tech Stack: Python, Scikit-learn, Pandas, Streamlit
+- 📸 Screenshots:
 
 - Deep Learning Celebrity Matcher | MTCNN, ResNet50, VGGFace
   - Built a face recognition pipeline with 95% accuracy on 200+ celebrity images.
