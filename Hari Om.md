@@ -49,7 +49,7 @@
   
 ## 🚀 Project
 
-### AI-Based Proctoring & Memory Training System  
+### 🧠 AI Proctoring System
 Live: https://aidev.gravitinfosystems.com/
 
 - Built a real-time proctoring and memory training platform with monitoring dashboard and practice modules.
