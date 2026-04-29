@@ -78,16 +78,7 @@ Live: https://shubh-milan-w2uu.vercel.app/
   - Clean UI/UX for real users
 - Tech Stack: React, Next.js / Vercel Deployment, Node.js (if used), MongoDB/MySQL (if used)
 
-### 🎬 Movie Recommender System
-Live: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
-- Built a content-based movie recommendation system using feature engineering on TMDB dataset.
-- Implemented similarity ranking using cosine similarity on processed metadata (genres, keywords, cast).
-- Optimized recommendation pipeline to achieve sub-2-second response time on 5,000+ movies.
-- Improved startup performance by 10% using persisted artifacts and precomputed vectors.
-- Designed interactive UI for real-time recommendations and user input.
-- Tech Stack: Python, Scikit-learn, Pandas, Streamlit
-### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/962b5939-a05e-4c2f-841d-b3e6ccd15f8b" />
-
+  
 ### 📋 TaskFlow – Project Management System  
 🔗 https://taskflow.ezyprojects.com/
 
@@ -102,6 +93,17 @@ Live: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
   - Social login integration (Google/Facebook)
 - Tech Stack: React, Node.js, Express (if used), MySQL/MongoDB, Vercel/Cloud Deployment
   
+
+### 🎬 Movie Recommender System
+Live: https://a7cqsrez2gm3w8rrbnwjhc.streamlit.app/
+- Built a content-based movie recommendation system using feature engineering on TMDB dataset.
+- Implemented similarity ranking using cosine similarity on processed metadata (genres, keywords, cast).
+- Optimized recommendation pipeline to achieve sub-2-second response time on 5,000+ movies.
+- Improved startup performance by 10% using persisted artifacts and precomputed vectors.
+- Designed interactive UI for real-time recommendations and user input.
+- Tech Stack: Python, Scikit-learn, Pandas, Streamlit
+### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/962b5939-a05e-4c2f-841d-b3e6ccd15f8b" />
+
 ### 🎭 Deep Learning Celebrity Matcher
 Live: https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.streamlit.app/
 - Built a deep learning-based face recognition system to match users with celebrity identities.
