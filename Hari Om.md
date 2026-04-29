@@ -1,22 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hari%20Om&fontSize=42&fontColor=ffffff&desc=AI%2FML%20Engineer%20from%20India&descSize=18&descAlignY=60" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hari%20Om&fontSize=42&fontColor=ffffff&desc=AI%2FML%20Engineer%20from%20India&descSize=18&descAlignY=60"/>
 </p>
+
 <table>
   <tr>
     <td width="70%" valign="middle">
       <h2>AI/ML Engineer</h2>
       <p>
-        Building real-time intelligent systems using <b>RAG, Computer Vision, and FastAPI</b>.  
+        Building real-time intelligent systems using <b>RAG, Computer Vision, and FastAPI</b>.<br/>
         Focused on scalable backend architectures, WebSocket-based systems, and production-ready ML pipelines.
       </p>
 
-      <p>
-        <b>Current:</b> AI/ML Developer Intern @ Gravit InfoSystems  
-      </p>
+      <p><b>Current:</b> AI/ML Developer Intern @ Gravit InfoSystems</p>
     </td>
 
     <td width="30%" align="center">
-      <img src="https://github.com/Hari99-ai.png?size=240" width="160" alt="Hari Om profile photo" />
+      <img src="https://github.com/Hari99-ai.png?size=240" width="150"/>
     </td>
   </tr>
 </table>
@@ -43,10 +42,10 @@
 - AI-based proctoring system with real-time monitoring
 - RAG pipelines using LangChain + Qdrant
   
-## 🚀 Project
+## 🚀 Projects
 ---
 ### 🧠 AI Proctoring System
-🔗 Live Demo: https://aidev.gravitinfosystems.com/
+🔗 Live Demo: <https://aidev.gravitinfosystems.com/>
 
 - Built a real-time proctoring and memory training platform with monitoring dashboard and practice modules.
 - Implemented AI-based detection (person, phone, focus tracking) for exam integrity.
@@ -97,7 +96,8 @@
 - Improved startup performance by 10% using persisted artifacts and precomputed vectors.
 - Designed interactive UI for real-time recommendations and user input.
 - Tech Stack: Python, Scikit-learn, Pandas, Streamlit
-### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/962b5939-a05e-4c2f-841d-b3e6ccd15f8b" />
+### 📸 Screenshots
+<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/962b5939-a05e-4c2f-841d-b3e6ccd15f8b" />
 
 ### 🎭 Deep Learning Celebrity Matcher
 🔗 Live Demo: https://which-bollywood-celebrity-are-you-main-ebddygypbbuahwbksfmcav.streamlit.app/
@@ -107,7 +107,8 @@
 - Optimized inference using precomputed embeddings, reducing per-query computation by 90%.
 - Implemented real-time prediction interface with image upload support.
 - Tech Stack: Python, TensorFlow/Keras, OpenCV, NumPy, Streamlit
-### 📸 Screenshots:<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/2be7c2f9-d6c0-4539-bbcf-7f42dccedb45" />
+### 📸 Screenshots
+<img width="1696" height="774" alt="image" src="https://github.com/user-attachments/assets/2be7c2f9-d6c0-4539-bbcf-7f42dccedb45" />
 
 
 
