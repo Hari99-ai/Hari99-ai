@@ -47,6 +47,11 @@
   - Annotated 1,000+ computer vision samples covering players, rackets, courts, nets, and ball positions for model training.
   - Maintained high annotation accuracy and consistency to support object detection training and evaluation.
 
+## 🔧 Currently Building
+
+- AI-based proctoring system with real-time monitoring
+- RAG pipelines using LangChain + Qdrant
+  
 ## Projects
 ## 🚀 Featured Project
 
