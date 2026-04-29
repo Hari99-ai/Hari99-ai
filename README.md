@@ -8,7 +8,8 @@
       <h1>Hari Om</h1>
       <h3>AI/ML Engineer from India</h3>
       <p>
-        I build practical machine learning, computer vision, and retrieval-augmented systems that solve real product problems.
+      AI/ML Engineer building real-time intelligent systems (RAG, Computer Vision, Proctoring).  
+      Focused on scalable backend systems using FastAPI, WebSockets, and production-ready ML pipelines.
       </p>
       <ul>
         <li>Current role: AI/ML Developer Intern at Gravit InfoSystems Pvt. Ltd.</li>
@@ -29,13 +30,12 @@
 - LinkedIn: [linkedin.com/in/hariomds](https://www.linkedin.com/in/hariomds)
 - GitHub: [@Hari99-ai](https://github.com/Hari99-ai)
 
-## Skills
+## 🧠 Skills
 
-- Programming: Python, NumPy, Pandas
-- ML and AI: Scikit-learn, TensorFlow, PyTorch, Linear Regression, Logistic Regression, Classification, Clustering, K-Means, Neural Networks, Deep Learning
-- Data Work: Feature Engineering, Data Cleaning, Dimensionality Reduction
-- Tools: Jupyter Notebook, VS Code, Git, Google Colab, Streamlit
-- RAG and Search: LangChain, Qdrant, Ollama, PyMuPDF, Docker, TF-IDF, Cosine Similarity
+**Core:** Python, FastAPI, Machine Learning, Computer Vision  
+**ML:** Scikit-learn, PyTorch, NLP, Deep Learning  
+**Systems:** WebSockets, Docker, MySQL  
+**RAG & AI:** LangChain, Qdrant, TF-IDF  
 
 ## Experience
 
